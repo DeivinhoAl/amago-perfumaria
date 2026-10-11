@@ -1,0 +1,8 @@
+{
+  "name": "amago-perfumaria",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo de e-commerce autoral de perfumes em HTML, CSS e JavaScript.",
+  "type": "module",
+  "scripts": { "start": "node server.mjs", "check": "node scripts/check.mjs" }
+}

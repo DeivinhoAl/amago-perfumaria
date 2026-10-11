@@ -1,0 +1,38 @@
+{
+  "verifiedAt": "2026-10-11",
+  "purpose": "Catálogo demonstrativo. Preços e disponibilidade devem ser definidos pela loja. Os volumes abaixo são apresentações verificadas, não uma declaração de estoque.",
+  "products": [
+    {
+      "id": "libre", "name": "Libre", "brand": "Yves Saint Laurent", "concentration": "Eau de Parfum", "family": "Floral", "notes": ["Lavanda", "Flor de laranjeira", "Almíscar", "Baunilha"], "bottleSizesMl": [10,30,50,90,150], "suggestedSizesMl": [50,90], "refillSizesMl": [100], "image": "libre.webp", "imageSizeShownMl": 90,
+      "officialSource": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum/109YSL.html?geo=false"
+    },
+    {
+      "id": "miss-dior", "name": "Miss Dior", "brand": "Dior", "concentration": "Eau de Parfum", "family": "Chipre floral com baunilha", "notes": ["Rosa Centifolia", "Baunilha", "Fava tonka", "Sândalo"], "bottleSizesMl": [30,50,100,150], "suggestedSizesMl": [50,100], "image": "miss-dior.webp", "imageSizeShownMl": 100, "version": "Reformulação de 2026, laço pied-de-poule. Não confundir com Miss Dior Parfum ou Blooming Bouquet.",
+      "officialSource": "https://www.dior.com/en_us/beauty/products/miss-dior-eau-de-parfum-E000001555.html", "imageSource": "https://www.ulta.com/p/miss-dior-eau-de-parfum-pimprod2060794?sku=2658951"
+    },
+    {
+      "id": "la-vie-est-belle", "name": "La Vie Est Belle", "brand": "Lancôme", "concentration": "Eau de Parfum", "family": "Floral gourmand", "notes": ["Íris", "Patchouli", "Baunilha", "Acorde açucarado"], "bottleSizesMl": [10,15,30,50,75,100,150], "suggestedSizesMl": [50,100], "refillSizesMl": [100], "image": "la-vie-est-belle.webp", "imageSizeShownMl": null,
+      "officialSource": "https://www.lancome-usa.com/fragrance/fragrance-by-collection/la-vie-est-belle/la-vie-est-belle-eau-de-parfum/100606.html"
+    },
+    {
+      "id": "good-girl", "name": "Good Girl", "brand": "Carolina Herrera", "concentration": "Eau de Parfum", "family": "Floral ambarado", "notes": ["Amêndoa", "Jasmim sambac", "Tuberosa", "Fava tonka", "Cacau"], "verifiedBottleSizesMl": [50,80], "suggestedSizesMl": [50,80], "image": "good-girl.webp", "imageSizeShownMl": 80,
+      "officialSource": "https://www.carolinaherrera.com/us/en/p-fragrance/good-girl-eau-de-parfum?sku=000000000065176159", "additionalSizeSource": "https://www.carolinaherrera.com/us/en/p-fragrance/good-girl-eau-de-parfum?sku=000000000065176140"
+    },
+    {
+      "id": "sauvage", "name": "Sauvage", "brand": "Dior", "concentration": "Eau de Parfum", "family": "Cítrico amadeirado", "familyNote": "Classificação resumida a partir da descrição oficial de cítricos, madeira e baunilha.", "notes": ["Bergamota da Calábria", "Pimenta de Sichuan", "Lavanda", "Baunilha", "Ambroxan"], "bottleSizesMl": [30,60,100,200,500], "suggestedSizesMl": [60,100], "image": "sauvage.webp", "imageSizeShownMl": 60,
+      "officialSource": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-C099700027.html", "imageSource": "https://www.ulta.com/p/sauvage-eau-de-parfum-xlsImpprod17941005?sku=2525853"
+    },
+    {
+      "id": "acqua-di-gio", "name": "Acqua di Giò", "brand": "Giorgio Armani", "concentration": "Eau de Toilette", "family": "Fresco aquático", "notes": ["Notas marinhas", "Bergamota", "Cedro"], "bottleSizesMl": [30,50,100,200], "suggestedSizesMl": [50,100], "refillSizesMl": [150], "image": "acqua-di-gio.webp", "imageSizeShownMl": 50,
+      "officialSource": "https://www.giorgioarmanibeauty-usa.com/fragrances/mens-cologne/acqua-di-gio/acqua-di-gio-eau-de-toilette/3614273955553.html"
+    },
+    {
+      "id": "paradoxe", "name": "Paradoxe", "brand": "Prada", "concentration": "Eau de Parfum", "family": "Floral ambarado", "notes": ["Botão de néroli", "Âmbar", "Almíscar"], "bottleSizesMl": [10,30,50,90], "suggestedSizesMl": [50,90], "refillSizesMl": [100], "image": "paradoxe.webp", "imageSizeShownMl": 90,
+      "officialSource": "https://www.prada-beauty.com/fragrance/paradoxe/paradoxe-eau-de-parfum/3614273760164.html"
+    },
+    {
+      "id": "bleu-de-chanel", "name": "Bleu de Chanel", "brand": "Chanel", "concentration": "Eau de Parfum", "family": "Amadeirado aromático", "notes": ["Cedro", "Sândalo da Nova Caledônia", "Notas ambaradas", "Almíscar"], "bottleSizesMl": [50,100,150], "suggestedSizesMl": [50,100], "image": "bleu-de-chanel.webp", "imageSizeShownMl": 100,
+      "officialSource": "https://www.chanel.com/us/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/"
+    }
+  ]
+}
