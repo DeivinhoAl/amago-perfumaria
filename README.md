@@ -18,6 +18,10 @@ npm run check
 
 O conteúdo estático completo está em `dist/` e pode ser servido por qualquer servidor HTTP. Os arquivos JavaScript usam módulos, portanto abra pelo servidor em vez de clicar diretamente no HTML.
 
+## Publicação no GitHub Pages
+
+`docs/` é a cópia estática publicada a partir da branch `main`. Ao atualizar `dist/`, copie os arquivos alterados para `docs/` antes de enviar a nova versão. O arquivo `.nojekyll` faz o GitHub servir os arquivos sem processamento Jekyll.
+
 ## Páginas e recursos
 
 - `dist/index.html`: loja, banners alternáveis, busca por perfume/marca/notas, filtros, ordenação, favoritos, detalhes do produto, seleção de volume e guia de fragrâncias.
