@@ -22,6 +22,10 @@ O conteúdo estático completo está em `dist/` e pode ser servido por qualquer 
 
 `docs/` é a cópia estática publicada a partir da branch `main`. Ao atualizar `dist/`, copie os arquivos alterados para `docs/` antes de enviar a nova versão. O arquivo `.nojekyll` faz o GitHub servir os arquivos sem processamento Jekyll.
 
+Site publicado: https://deivinhoal.github.io/amago-perfumaria/
+
+Apresentação visual com capturas do site publicado: [PDF](output/pdf/amago-apresentacao-visual.pdf).
+
 ## Páginas e recursos
 
 - `dist/index.html`: loja, banners alternáveis, busca por perfume/marca/notas, filtros, ordenação, favoritos, detalhes do produto, seleção de volume e guia de fragrâncias.
